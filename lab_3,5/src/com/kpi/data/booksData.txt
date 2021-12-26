@@ -1,0 +1,12 @@
+1, The Lord of the Rings, J.R.R.Tolkien, G.Allen_&_Unwin, 1968, 1186, 1436.0
+2, Pride and Prejudice, J.R.R.Tolkien, T.Egerton,Whitehall, 1813, 408, 103.0
+3, His Dark Materials, P.Pullman, Scholastic, 1995, 678, 139.9
+4, The Hitchhiker's Guide to the Galaxy, D.Adams, Pan_Books, 1979, 301, 169.2
+5, Harry Potter and the Goblet of Fire, J.K.Rowling, Bloomsbury, 2000, 636, 254.99
+6, To Kill a Mockingbird, H.Lee, J.B.Lippincott_&_Co., 1960, 281, 99.0
+7, Winnie-the-Pooh, A.A.Milne, Methuen_&_Co.Ltd., 1926, 195, 45.8
+
+8, Nineteen Eighty-Four, G.Orwell, Secker_&_Warburg, 1949, 326, 861.1
+9, The Lion,the Witch and the Wardrobe, C.S.Lewis, Geoffrey_Bles, 1950, 589, 217.0
+
+10, Jane Eyre, C.Brontë, Smith,Elder, 1847, 820, 2090.25

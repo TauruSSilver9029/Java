@@ -1,0 +1,25 @@
+
+
+Results of getting all books:
+Book: Id: 1, Name: The Lord of the Rings, Author: J.R.R.Tolkien, Publishing: G.Allen_&_Unwin, Year of publishing: 1968, Amount of pages: 1186, Price: 1436.0
+Book: Id: 2, Name: Pride and Prejudice, Author: J.R.R.Tolkien, Publishing: T.Egerton,Whitehall, Year of publishing: 1813, Amount of pages: 408, Price: 103.0
+Book: Id: 3, Name: His Dark Materials, Author: P.Pullman, Publishing: Scholastic, Year of publishing: 1995, Amount of pages: 678, Price: 139.9
+Book: Id: 4, Name: The Hitchhiker's Guide to the Galaxy, Author: D.Adams, Publishing: Pan_Books, Year of publishing: 1979, Amount of pages: 301, Price: 169.2
+Book: Id: 5, Name: Harry Potter and the Goblet of Fire, Author: J.K.Rowling, Publishing: Bloomsbury, Year of publishing: 2000, Amount of pages: 636, Price: 254.99
+Book: Id: 6, Name: To Kill a Mockingbird, Author: H.Lee, Publishing: J.B.Lippincott_&_Co., Year of publishing: 1960, Amount of pages: 281, Price: 99.0
+Book: Id: 7, Name: Winnie-the-Pooh, Author: A.A.Milne, Publishing: Methuen_&_Co.Ltd., Year of publishing: 1926, Amount of pages: 195, Price: 45.8
+Book: Id: 8, Name: Nineteen Eighty-Four, Author: G.Orwell, Publishing: Secker_&_Warburg, Year of publishing: 1949, Amount of pages: 326, Price: 861.1
+Book: Id: 9, Name: The Lion,the Witch and the Wardrobe, Author: C.S.Lewis, Publishing: Geoffrey_Bles, Year of publishing: 1950, Amount of pages: 589, Price: 217.0
+Book: Id: 10, Name: Jane Eyre, Author: C.Brontë, Publishing: Smith,Elder, Year of publishing: 1847, Amount of pages: 820, Price: 2090.25
+
+Results of searching books published after 1800 year:
+Book: Id: 1, Name: The Lord of the Rings, Author: J.R.R.Tolkien, Publishing: G.Allen_&_Unwin, Year of publishing: 1968, Amount of pages: 1186, Price: 1436.0
+Book: Id: 2, Name: Pride and Prejudice, Author: J.R.R.Tolkien, Publishing: T.Egerton,Whitehall, Year of publishing: 1813, Amount of pages: 408, Price: 103.0
+Book: Id: 3, Name: His Dark Materials, Author: P.Pullman, Publishing: Scholastic, Year of publishing: 1995, Amount of pages: 678, Price: 139.9
+Book: Id: 4, Name: The Hitchhiker's Guide to the Galaxy, Author: D.Adams, Publishing: Pan_Books, Year of publishing: 1979, Amount of pages: 301, Price: 169.2
+Book: Id: 5, Name: Harry Potter and the Goblet of Fire, Author: J.K.Rowling, Publishing: Bloomsbury, Year of publishing: 2000, Amount of pages: 636, Price: 254.99
+Book: Id: 6, Name: To Kill a Mockingbird, Author: H.Lee, Publishing: J.B.Lippincott_&_Co., Year of publishing: 1960, Amount of pages: 281, Price: 99.0
+Book: Id: 7, Name: Winnie-the-Pooh, Author: A.A.Milne, Publishing: Methuen_&_Co.Ltd., Year of publishing: 1926, Amount of pages: 195, Price: 45.8
+Book: Id: 8, Name: Nineteen Eighty-Four, Author: G.Orwell, Publishing: Secker_&_Warburg, Year of publishing: 1949, Amount of pages: 326, Price: 861.1
+Book: Id: 9, Name: The Lion,the Witch and the Wardrobe, Author: C.S.Lewis, Publishing: Geoffrey_Bles, Year of publishing: 1950, Amount of pages: 589, Price: 217.0
+Book: Id: 10, Name: Jane Eyre, Author: C.Brontë, Publishing: Smith,Elder, Year of publishing: 1847, Amount of pages: 820, Price: 2090.25
