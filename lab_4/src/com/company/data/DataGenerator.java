@@ -10,15 +10,15 @@ import java.util.List;
 
 public class DataGenerator {
     private static List<Person> personList = List.of(
-            new Person("Bob"),
-            new Person("John"));
+            new Person("Karl"),
+            new Person("Ivan"));
 
     private static List<Fireman> firemanList = List.of(
-            new Fireman("Taras", 3),
+            new Fireman("Vadim", 3),
             new Fireman("Oleg", 7),
-            new Fireman("Bob", 12),
-            new Fireman("Joe", 1),
-            new Fireman("John", 20)
+            new Fireman("Karl", 12),
+            new Fireman("Andry", 1),
+            new Fireman("Ivan", 20)
     );
 
     private static List<Policeman> policemanList = List.of(
@@ -26,7 +26,7 @@ public class DataGenerator {
             new Policeman("Dimitry", true),
             new Policeman("Andy", false),
             new Policeman("Oleg", false),
-            new Policeman("John", true)
+            new Policeman("Ivan", true)
     );
 
     private static List<FireCar> fireCars = List.of(
