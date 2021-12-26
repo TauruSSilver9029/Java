@@ -9,13 +9,13 @@ public class Main {
     {
         Disctionary obj = new Disctionary();
         obj.addWord("I","Я");
+        obj.addWord("was","був");
+        obj.addWord("wrong","неправий");
+        obj.addWord("sorry","вибачте");
+        obj.addWord("very","дуже");
         obj.addWord("want","хочу");
-        obj.addWord("sixty","шестьдесят");
-        obj.addWord("please","пожалуйста");
-        obj.addWord("pay","плачу");
-        obj.addWord("much","много");
-        obj.addWord("for","за");
-        obj.addWord("studying","процесс обучения");
+        obj.addWord("sixty","шістдесят");
+        obj.addWord("points","балів");
         obj.addWord("here","тут");
         Scanner inStr = new Scanner(System.in);
         String eng;
@@ -24,7 +24,7 @@ public class Main {
             eng = inStr.nextLine();
             System.out.println("Enter translation:");
         } while (!(obj.addWord(eng,inStr.nextLine())));
-        String toTranslate = "I want sixty please";
+        String toTranslate = "I was wrong sorry";
         System.out.println("Translation of *" + toTranslate + "* is *" + obj.translate(toTranslate) + "*");
     }
 }
